@@ -1,0 +1,3 @@
+This is sample text document 3.
+
+Meant for demo purposes.
